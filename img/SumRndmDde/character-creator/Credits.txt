@@ -1,0 +1,8 @@
+ - All the character pieces here were taken from 
+   RPG Maker MV's Character Geneator source files and 
+   editted to fit with the Character Creator system.
+
+ - The pieces were editted by SumRndmDde.
+ - A fraction of the work was done by Snowie.
+
+Please give credit to all parties mentioned if you use these character pieces!
